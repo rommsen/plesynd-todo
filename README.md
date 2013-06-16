@@ -1,3 +1,3 @@
 plesynd-todo
 ============
-Todo-Widget für Plesynd
+Todo-Widget für Plesynd: https://github.com/rommsen/plesynd
